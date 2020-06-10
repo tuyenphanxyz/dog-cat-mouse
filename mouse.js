@@ -1,3 +1,4 @@
 function mouse(argument) {
-	// body...
+	var mouse
 }
+

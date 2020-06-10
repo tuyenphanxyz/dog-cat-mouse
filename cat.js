@@ -1,3 +1,3 @@
 function cat(argument) {
-	// body...
+	var cat
 }
