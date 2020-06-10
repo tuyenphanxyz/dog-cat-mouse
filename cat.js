@@ -1,6 +1,5 @@
 function cat(argument) {
-	this.name - name;
-	this.dead = fasle;
+
 	this.stomach =[];
 }
 
