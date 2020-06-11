@@ -8,3 +8,5 @@ this.dead = true;
 };
 
 module.exports = Cat;
+
+var Dog = cat;
